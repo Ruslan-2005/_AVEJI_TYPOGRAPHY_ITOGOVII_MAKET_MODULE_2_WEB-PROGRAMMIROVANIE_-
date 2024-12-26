@@ -1,0 +1,164 @@
+.typography,
+.typography * {
+  box-sizing: border-box;
+}
+.typography {
+  background: #ffffff;
+  height: 962px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+._1-web {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--text-normal-font-family, "Roboto-Regular", sans-serif);
+  font-size: var(--text-normal-font-size, 16px);
+  line-height: var(--text-normal-line-height, 140%);
+  font-weight: var(--text-normal-font-weight, 400);
+  position: absolute;
+  right: 72.56%;
+  left: 6.86%;
+  width: 20.58%;
+  bottom: 51.66%;
+  top: 46.05%;
+  height: 2.29%;
+}
+._1-web2 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--text-specific-font-family, "Roboto-Regular", sans-serif);
+  font-size: var(--text-specific-font-size, 12px);
+  font-weight: var(--text-specific-font-weight, 400);
+  position: absolute;
+  right: 76.84%;
+  left: 6.86%;
+  width: 16.3%;
+  bottom: 48.96%;
+  top: 49.58%;
+  height: 1.46%;
+}
+._1-web3 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--title-h1-font-family, "Helvetica-Regular", sans-serif);
+  font-size: var(--title-h1-font-size, 72px);
+  line-height: var(--title-h1-line-height, 120%);
+  font-weight: var(--title-h1-font-weight, 400);
+  position: absolute;
+  right: 48.89%;
+  left: 6.86%;
+  width: 44.25%;
+  bottom: 79.11%;
+  top: 11.95%;
+  height: 8.94%;
+}
+._1-web4 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--title-h1-mob-font-family, "Helvetica-Regular", sans-serif);
+  font-size: var(--title-h1-mob-font-size, 32px);
+  line-height: var(--title-h1-mob-line-height, 120%);
+  font-weight: var(--title-h1-mob-font-weight, 400);
+  position: absolute;
+  right: 24.87%;
+  left: 55.92%;
+  width: 19.21%;
+  bottom: 79.52%;
+  top: 16.53%;
+  height: 3.95%;
+}
+._1-web5 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--title-h2-font-family, "Helvetica-Regular", sans-serif);
+  font-size: var(--title-h2-font-size, 48px);
+  font-weight: var(--title-h2-font-weight, 400);
+  position: absolute;
+  left: 40px;
+  top: 213px;
+}
+._1-web6 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--title-h2-mob-font-family, "Helvetica-Regular", sans-serif);
+  font-size: var(--title-h2-mob-font-size, 28px);
+  font-weight: var(--title-h2-mob-font-weight, 400);
+  position: absolute;
+  left: 240px;
+  top: 236px;
+}
+._1-web7 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--title-h3-font-family, "Helvetica-Regular", sans-serif);
+  font-size: var(--title-h3-font-size, 36px);
+  font-weight: var(--title-h3-font-weight, 400);
+  position: absolute;
+  right: 71.01%;
+  left: 6.86%;
+  width: 22.13%;
+  bottom: 64.55%;
+  top: 30.25%;
+  height: 5.2%;
+}
+._1-web8 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--title-h3-mob-font-family, "Helvetica-Regular", sans-serif);
+  font-size: var(--title-h3-mob-font-size, 24px);
+  font-weight: var(--title-h3-mob-font-weight, 400);
+  position: absolute;
+  right: 51.8%;
+  left: 33.79%;
+  width: 14.41%;
+  bottom: 64.86%;
+  top: 31.7%;
+  height: 3.43%;
+}
+._1-web9 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--text-large-font-family, "Roboto-Regular", sans-serif);
+  font-size: var(--text-large-font-size, 18px);
+  font-weight: var(--text-large-font-weight, 400);
+  position: absolute;
+  right: 72.73%;
+  left: 6.86%;
+  width: 20.41%;
+  bottom: 59.04%;
+  top: 38.77%;
+  height: 2.18%;
+}
+._1-web10 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--text-large-bold-font-family, "Helvetica-Bold", sans-serif);
+  font-size: var(--text-large-bold-font-size, 18px);
+  font-weight: var(--text-large-bold-font-weight, 700);
+  position: absolute;
+  right: 71.7%;
+  left: 6.86%;
+  width: 21.44%;
+  bottom: 55.2%;
+  top: 42.2%;
+  height: 2.6%;
+}
+._1-web11 {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--h1-web-font-family, "Roboto-Medium", sans-serif);
+  font-size: var(--h1-web-font-size, 50px);
+  line-height: var(--h1-web-line-height, 60px);
+  font-weight: var(--h1-web-font-weight, 500);
+  position: absolute;
+  right: 40.31%;
+  left: 6.35%;
+  width: 53.34%;
+  bottom: 91.37%;
+  top: 2.39%;
+  height: 6.24%;
+}
